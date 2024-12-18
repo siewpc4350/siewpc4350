@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ...Python
 - 
 - 💞️ I’m looking to collaborate on HTML...
-- 📫 How to reach me sierwpc35@gmail.com..
+- 📫 How to reach me siewpc35@gmail.com..
 - 😄 Pronouns: ...nil
 - 
 - ⚡ Fun fact: ...nil
